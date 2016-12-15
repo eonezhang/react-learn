@@ -1,7 +1,8 @@
+// modules/Repos.js
 import React from 'react'
 
 export default React.createClass({
   render() {
-    return <div>Hello, React Router Version 2!</div>
+    return <div>Repos</div>
   }
 })
